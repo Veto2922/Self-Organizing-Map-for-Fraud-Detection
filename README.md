@@ -3,6 +3,9 @@
 ## Overview
 This notebook demonstrates the implementation of a Self-Organizing Map (SOM) for detecting fraud in credit card applications. The SOM is trained on a dataset of credit card applications to learn patterns and identify potential outliers that may indicate fraudulent activities.
 
+![image](https://github.com/Veto2922/Self-Organizing-Map-for-Fraud-Detection/assets/114834171/bbd99ffc-42b5-4e99-9447-62a42bd85c49)
+
+
 ## Setup and Dependencies
 To run this notebook, you need to install the `MiniSom` package using pip:
 ```bash
